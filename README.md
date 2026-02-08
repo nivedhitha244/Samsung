@@ -1,1 +1,1 @@
-# Samsung
+# samsung_clone
